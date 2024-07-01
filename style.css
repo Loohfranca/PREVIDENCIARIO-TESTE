@@ -1,0 +1,90 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif, Times, serif
+}
+
+.carousel-item {
+  
+    
+
+}
+
+
+.carousel-caption {
+    bottom: 80px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    
+
+
+
+}
+
+.carousel-caption h5 {
+    font-size: 45px;
+    margin-top: 25px;
+    color: rgb(239, 240, 241);
+    font-family: "Anton", sans-serif;
+   
+}
+
+
+.logo{
+    width: 50%;
+    margin: auto;
+}
+
+.paragraph {
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    width: 70%;
+    margin: auto;
+    
+}
+
+
+
+.main-title {
+    font-size: 40px;
+    bottom: 70px;
+    font-family: "Anton", sans-serif;
+    color: #0e263b;
+
+}
+    
+.paragrap {
+    font-size: 40px;
+    font-family: "Anton", sans-serif;
+    color: #0e263b;
+}
+
+.main-title span{
+    color: rgb(224, 137, 6);
+    font-family: "Anton", sans-serif;
+}
+
+.card-title span{
+ color: white;
+ 
+}
+
+.card-title {
+    font-family: "Roboto", sans-serif;
+    
+}
+.btn {
+    background-color:rgb(224, 137, 6);
+    color: aliceblue;
+    border: none;
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+
+}
+
+.btn:hover{
+    background-color:  rgb(8, 8, 75);
+    color: aliceblue;
+}
